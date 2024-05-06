@@ -23,4 +23,5 @@ Speakeasy is a speech-to-text converter built using ReactJS, CSS, and the npm pa
 - You can change language option b/w the text to speech conv. when you want this simply click on "stop" change language and then again click on start.
   
 ## UI : 
+![Screenshot 2024-05-06 162739](https://github.com/Darshanjasani73/SpeakEasy-SpeechToTextConverter/assets/167104440/f7573de6-d472-42d6-bcd6-a95eb17e535c)
 
