@@ -2,6 +2,8 @@
 
 Speakeasy is a speech-to-text converter built using ReactJS, CSS, and the npm package `react-speech-recognition`. It allows users to convert their spoken words into text in three different languages: English, Hindi, or Gujrati. Additionally, it provides features such as copying the converted text and resetting the conversion container.
 
+## Check it on : https://speak-easy-speech-to-text-converter.vercel.app/
+
 ## Features
 
 - Speech-to-text conversion in three languages: English, Hindi, or Gujrati.
